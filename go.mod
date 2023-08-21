@@ -1,4 +1,4 @@
-module github.com/swaggo/echo-swagger
+module github.com/worldline-go/echo-swagger
 
 go 1.17
 

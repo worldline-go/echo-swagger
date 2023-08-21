@@ -7,6 +7,7 @@ echo middleware to automatically generate RESTful API documentation with Swagger
 [![Go Report Card](https://goreportcard.com/badge/github.com/swaggo/echo-swagger)](https://goreportcard.com/report/github.com/swaggo/echo-swagger)
 [![Release](https://img.shields.io/github/release/swaggo/echo-swagger.svg?style=flat-square)](https://github.com/swaggo/echo-swagger/releases)
 
+This is a forked version of echo-swagger to be sure not get updated with breaking changes.
 
 ## Usage
 
